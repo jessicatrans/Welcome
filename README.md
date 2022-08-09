@@ -13,5 +13,5 @@ https://ucycle.carrd.co/
 - currently collaborating with a team to code a personal website for U-Cycle, creating a platform for UC Davis students that struggle financially and help them get their own customizable subscription box for period supplies
 
 
-## Here is my linkedin!
+## Contact:
 https://www.linkedin.com/in/jessicatrans/

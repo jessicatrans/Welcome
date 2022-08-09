@@ -14,4 +14,5 @@ https://ucycle.carrd.co/
 
 
 ## Contact:
-https://www.linkedin.com/in/jessicatrans/
+Email: jgtrans@ucdavis.edu
+Linkedin: https://www.linkedin.com/in/jessicatrans/

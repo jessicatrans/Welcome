@@ -11,6 +11,7 @@ U-Cycle -->
 https://ucycle.carrd.co/
 - designed the logo for their temporary website
 - currently collaborating with a team to code a personal website for U-Cycle, creating a platform for UC Davis students that struggle financially and help them get their own customizable subscription box for period supplies
+- new website: https://theucycle.square.site/
 
 
 ## Contact:

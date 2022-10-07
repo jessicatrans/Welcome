@@ -7,11 +7,11 @@ https://devpost.com/software/simple-day
 - brainstormed and prototyped on Figma
 - utilized HTML, CSS, JavaScript, Bootstrap to create the extension
 
-U-Cycle --> 
-https://ucycle.carrd.co/
-- designed the logo for their temporary website
+U-Cycle 
+- designed the logo and mascot for their temporary website
 - currently collaborating with a team to code a personal website for U-Cycle, creating a platform for UC Davis students that struggle financially and help them get their own customizable subscription box for period supplies
 - new website: https://theucycle.square.site/
+- old website: https://ucycle.carrd.co/
 
 
 ## Contact:

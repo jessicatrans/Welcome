@@ -10,7 +10,7 @@ Feel free to visit my [personal website/portfolio](https://jessicatrans.github.i
 ## My Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=cs,c,cpp,python,html,css,sass,js,java,r,matlab,swift&theme=light)](https://jessicatrans.github.io/)
+[![Languages](https://skillicons.dev/icons?i=cs,c,cpp,python,html,css,sass,js,ts,java,r,matlab,swift&theme=light)](https://jessicatrans.github.io/)
 
 ### Frameworks/Libraries/Databases
 [![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,nodejs,expressjs,nextjs,threejs,sqlite,mongodb&theme=light)](https://jessicatrans.github.io/)
